@@ -2,8 +2,8 @@
 - 👀 I’m interested in artificial intelligence, machine learning, deep learning, information security and other areas of computing!
 - 🌱 I’m currently learning computer engineering!
 <div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pedrodicati&show_icons=true&theme=dark">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodicati&layout=compact&theme=dark">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=pedrodicati&show_icons=true&theme=dark">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodicati&layout=compact&theme=dark">
 </div>
 <!---
 pedrodicati/pedrodicati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
