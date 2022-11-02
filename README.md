@@ -6,11 +6,11 @@
 
 👨‍💻 <samp>I'm a **19 years old man** from **Brazil** 🇧🇷</samp>
 
-📚 <samp>Focuses in the areas of **Artificial Intelligence**, **Computer Networks* and **Information Security**</samp>
+📚 Focuses in the areas of **Artificial Intelligence**, **Computer Networks** and **Information Security**
 
-🔎 <samp>Python | C | C++ | PHP | Linux</samp>
+🔎 <samp>Python | C | C++ | Pandas | Linux | DataScience</samp>
  
-💻 <samp>Smart development to try to bring the best to the world!</samp>
+💻 Smart development to try to bring the best to the world!
 
 ### Languages, Knowledge & Statistics
 <br>
