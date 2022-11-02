@@ -45,13 +45,3 @@
   <a href="https://www.linkedin.com/in/pedro-dicati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge_&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![snake gif](https://github.com/pedrodicati/pedrodicati/blob/output/github-contribution-grid-snake.svg)
-
-<h4 align="center"><samp>Profile View Counter:</samp></h4>
-
-<p align="center">
-  <a href="http://www.pudim.com.br/">
-    <img align="center" src="https://profile-counter.glitch.me/pedrodicati/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
-  </a>
-</p>
-
-</div>
