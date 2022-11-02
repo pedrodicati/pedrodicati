@@ -1,7 +1,7 @@
 ## Fala meu caro, my_name = 'Pedro Dicati' - @pedrodicati 👾
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=print(%22Welcome! my_name_is = Pedro%22)&center=true" alt="print-ola-mundo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=0325ff&height=50&lines=print(%22Welcome!%22)&center=true" alt="print-ola-mundo" />
 </p>
 
 👨‍💻 <samp>I'm a **19 years old man** from **Brazil** 🇧🇷</samp>
