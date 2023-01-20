@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/pedrodicati">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=pedrodicati&show_icons=true&theme=github-dark%22"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodicati&layout=compact&theme=dark"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodicati&layout=compact&theme=github-dark"/>
 </div>
  
 <div align="center" style="display: inline_block">
