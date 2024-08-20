@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=0325ff&height=50&lines=print(%22Welcome!%22)&center=true" alt="print-ola-mundo" />
 </p>
 
-👨‍💻 <samp>I'm a **19 years old man** from **Brazil** 🇧🇷</samp>
+👨‍💻 <samp>I'm a **21 years old man** from **Brazil** 🇧🇷</samp>
 
 📚 Focuses in the areas of **Artificial Intelligence**, **Computer Networks** and **Information Security**
 
