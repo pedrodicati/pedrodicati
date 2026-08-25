@@ -1,48 +1,59 @@
-## Fala meu caro, my_name = 'Pedro Dicati' - @pedrodicati 👾
-<br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=0325ff&height=50&lines=print(%22Welcome!%22)&center=true" alt="print-ola-mundo" />
-</p>
+## Hey! I'm Pedro Dicati 👋
 
-👨‍💻 <samp>I'm a **21 years old man** from **Brazil** 🇧🇷</samp>
+I'm a **Staff Data Scientist** at iFood, focused on building scalable AI systems that drive real business impact.
 
-📚 Focuses in the areas of **Artificial Intelligence**, **Computer Networks** and **Information Security**
+### About Me
 
-🔎 <samp>Python | C | C++ | Pandas | Linux | DataScience</samp>
- 
-💻 Smart development to try to bring the best to the world!
+I'm a Lead Data Scientist and Applied AI Engineer with expertise designing and deploying machine learning and generative AI systems in production environments.
 
-### Languages, Knowledge & Statistics
-<br>
-<div align="center">
-  <a href="https://github.com/pedrodicati">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=pedrodicati&show_icons=true&theme=github-dark%22"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodicati&layout=compact&theme=github-dark"/>
-</div>
- 
-<div align="center" style="display: inline_block">
-  <br>     
-  <img align="center" alt="Pedro-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pedro-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Pedro-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Pedro-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
-  <img align="center" alt="Pedro-Raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Pedro-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="Pedro-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-</div>
+Currently at **iFood**, I work on ML systems that impact millions of users. Previously at **Cognitivo.ai**, I acted as a technical reference across multiple AI initiatives, supporting projects from architecture design to deployment and evaluation.
 
-<br>
+My work spans the full AI lifecycle:
+- Problem framing & solution architecture
+- Model development & experimentation
+- Production deployment & monitoring
+- Business impact analysis
 
-<h2 align="center"><samp>- Contacts & Other Stuff:</samp></h2>
+### Core Expertise
 
-<div align="center"> 
-  <a href="https://instagram.com/pedro.dicati" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge_&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="pedrodicati#3937" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge_&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:phgedi48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge_&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-dicati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge_&logo=linkedin&logoColor=white" target="_blank"></a> 
+**Generative AI & LLMs**
+- Generative AI applications and AI copilots
+- Multi-agent systems and LLM orchestration
+- LangGraph, n8n, and complex workflow orchestration
 
-![snake gif](https://github.com/pedrodicati/pedrodicati/blob/output/github-contribution-grid-snake.svg)
+**Machine Learning**
+- Recommendation systems and collaborative filtering
+- Pricing & elasticity-based ML models
+- NLP-based matching systems
+- ML deployment and APIs
+
+**Cloud & Infrastructure**
+- AWS (certified) and Databricks
+- MLflow & model lifecycle management
+- Scalable ML systems
+
+**Tech Stack**
+```
+Python | Scikit-learn | AWS | Bedrock | Databricks | MLflow | LangGraph | n8n | LLMs
+```
+
+### Notable Achievements
+
+🏆 **Recommendation Systems** - Built recommendation engines for fashion retail generating $300k–$400k in additional revenue with 3% margin improvement
+
+🏆 **AI Copilots** - Designed multi-agent systems for customer service operations in education sector
+
+🏆 **Pricing Models** - Developed ML pricing models for pharmaceutical distribution improving margins by 0.5pp
+
+🏆 **Generative AI** - Built systems transforming unstructured marketplace data into structured product information using LLMs
+
+### Featured Projects
+
+- **AI Copilot for Customer Service** - Multi-agent architecture with specialized agents for call center support
+- **Fashion Retail Recommendations** - Collaborative filtering, product similarity, and basket recommendations
+- **Pharmaceutical Matching & Pricing** - NLP-based matching with demand elasticity pricing models
+- **Generative Data Structuring** - GPT-powered transformation of unstructured data into structured formats
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/pedro-dicati/) · [Email](mailto:phgedi48@gmail.com) · [Instagram](https://instagram.com/pedro.dicati)
