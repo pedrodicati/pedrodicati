@@ -56,4 +56,4 @@ Python | Scikit-learn | AWS | Bedrock | Databricks | MLflow | LangGraph | n8n | 
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/pedro-dicati/) · [Email](mailto:phgedi48@gmail.com) · [Instagram](https://instagram.com/pedro.dicati)
+[LinkedIn](https://www.linkedin.com/in/pedro-dicati/) · [Email](mailto:phgedi48@gmail.com)
